@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbedev_test"
+  site-url: "https://schneider-clarify.github.io/nbedev_test"
+  description: "A python module"
+  repo-branch: main
+  repo-url: "https://github.com/schneider-clarify/nbedev_test"
